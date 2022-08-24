@@ -3,6 +3,8 @@
 
 Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Perry MacNeille. 'A bayesian framework for learning rule sets for interpretable classification.' The Journal of Machine Learning Research 18, no. 1 (2017): 2357-2393.
 
+### **Link to download the dataset: https://archive.ics.uci.edu/ml/datasets/in-vehicle+coupon+recommendation**
+
 ### We have performed data pre-processing by using the data_preprocessing.ipynb for different attributes and then generated the final preprocessed cssv file. (data-preprocessed.csv). Further we have implemented two cross validation techniques including Stratified K-fold cv and 10-fold GridSearch cv for hyperparameter tuning of the models. 
 
 ### Stratified K-fold cv is initially used on a Random Forest Classifier, 
