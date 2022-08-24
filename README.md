@@ -10,7 +10,7 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 
 ### Instructions to run the above files:
 
-####  1) **Run 'data_preprocessing.ipynb' which will generate the final processed csv file named data-preprocessing.csv**
+####  1) **Using the 'in-vehicle-coupon recommendation.csv' file, run 'data_preprocessing.ipynb' which will generate the final processed csv file named data-preprocessing.csv**
 ####  2) **Upload the 'data-preprocessing.csv' file onto your jupyter notebook and run the 'Machine_learning_models.ipynb'**
 ####  3) **After running the above mentioned files you can now see the produced results**
 ####  4) **You can also use the combined file (CE888 Preprocesing_&_Predcition.ipynb) which includes data-preprocessing and model implementation**
