@@ -14,5 +14,5 @@ Wang, Tong, Cynthia Rudin, Finale Doshi-Velez, Yimin Liu, Erica Klampfl, and Per
 ####  2) **Upload the 'data-preprocessing.csv' file onto your jupyter notebook and run the 'Machine_learning_models.ipynb'**
 ####  3) **After running the above mentioned files you can now see the produced results**
 ####  4) **You can also use the combined file (CE888 Preprocesing_&_Predcition.ipynb) which includes data-preprocessing and model implementation**
-
+####  5) **To understand the importance & distribution of all the features in the dataset, refer figure 'Feature importance.png'.** 
 #### **NOTE: The accuracy results may differ a bit as compared to the combined file (CE888 Preprocesing_&_Predcition.ipynb) and the individual files(data_preprocessing.ipynb & Machine_learning_models.ipynb).**
